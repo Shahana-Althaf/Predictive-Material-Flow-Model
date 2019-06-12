@@ -1,5 +1,4 @@
 # Predictive-Material-Flow-Models
-https://doi.org/10.5281/zenodo.3244095
 
 Matlab codes for forecasting future sales and waste flows of products
 
