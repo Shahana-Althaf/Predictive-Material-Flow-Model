@@ -29,29 +29,46 @@ Data Dictionary for Input sheets.
 Columns 1 to 6 (both models) is to provide basic details about the products.
 
 Column 1: Product ID = Assign a number to each product. (Increment the number by one, when each product is entered, the maximum number in Product ID column indicates the number of products to be analyzed.
+
 Column 2: Product_Name =Enter Product Type
+
 Column 3: Category= Enter a number to indicate product category
+
 Column 4: Mass= Enter average mass of the product in kg.
+
 Column 5: Sales_Start_Year or Year_of_Market_Entry = Enter the year in which the product was first sold in United states.
+
 Column 6: Target Year= Enter the year till when the outflow calculations are to be performed.
+
 Column 7: Peak_Sales_Units = Maximum Sales 
 
 Emerging Product Model (Columns 8 to 11) 
 
 Column 8: Minimum_Lifespan= Enter any whole number other than zero (default= 1)
+
 Column 9: Maximum_Lifespan= Enter any whole number other than zero ( default= 10)
+
 Column 10: Mean_Lifespan = Enter average product lifespan
+
 Column 11: Std_dev_Lifespan = Enter standard deviation of product lifespan
 
 Mature Product Model (Columns 8 to 16) 
 
 Column 8: Time_to_peak = Enter number of years to reach sales peak from year of market entry.
+
 Column 9: Sales_growth_rate= Enter sales growth rate generated through logistic curve fitting of historic adoption data.
+
 Column 10: Sales_growth_sigmoid_midpoint= Enter sales growth midpoint generated through logistic curve fitting of historic adoption data.
+
 Column 11: Sales_decay_rate= Enter sales decay rate generated through logistic curve fitting of historic adoption data.
+
 Column 12: Sales_decay _sigmoid_midpoint= Enter sales decay midpoint generated through logistic curve fitting of historic adoption data.
+
 Column 13: Minimum_Lifespan= Enter any whole number other than zero (default= 1)
+
 Column 14: Maximum_Lifespan= Enter any whole number other than zero (default= 10)
+
 Column 15: Mean_Lifespan = Enter average product lifespan
+
 Column 16: Std_dev_Lifespan = Enter standard deviation of product lifespan
 
