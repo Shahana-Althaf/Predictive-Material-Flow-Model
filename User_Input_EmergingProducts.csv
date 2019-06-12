@@ -1,0 +1,5 @@
+ProductID,Product_Name,Category,Mass,Year_of_Marketentry,Target_Year,Peak_Sales_Units,Minimum_Lifespan,Maximum_Lifespan,Mean_Lifespan,Std_dev_Lifespan
+1,Fitness_Trackers,1,0.05,2013,2030,5903164,1,7,4,2
+2,Smart_thermostats,1,0.2,2013,2030,5903164,1,7,3,2
+3,Drones,1,1.7,2013,2030,5903163.6,1,10,5,2
+4,OLED,1,10.38589695,2017,2030,5903164,1,10,6,2
